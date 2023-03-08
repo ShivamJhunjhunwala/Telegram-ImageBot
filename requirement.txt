@@ -1,0 +1,5 @@
+mega.py
+python-telegram-bot
+urllib3
+requests
+pillow
